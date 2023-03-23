@@ -1,0 +1,1891 @@
+{
+  "text": {
+    "name": "Popis",
+    "value": "<p>Nadstandardně vybavený byt 3+kk o celkové ploše 137,3 m2 v projektu V-Tower&nbsp;k prodeji. Byt má vstupní halu s dostatkem úložného prostoru, prostorný obývací pokoj s moderně vybavenou kuchyní spotřebiči GAGENNAU, dvě ložnice s vlastní koupelnou, WC a šatnou. Celý prostor působí velmi vzdušně díky oknům od podlahy ke stropu podél celého bytu a prostorným terasám(25,9 m2 + 20,2 m2). Koupelny jsou obložené velkoformátovým žulovým kamenem, podlahy v pokojích kvalitním dubem.</p><p><br></p><p>Exkluzivní bydlení v jedinečném projektu V-Tower Praha 4nabízí ostrahu objektu, čtyřiadvacetihodinovou recepci, klubové patro s fitness a wellness centrem, ve kterém nechybí&nbsp;bazén, sauna či vířivka, golfový trenažér a soukromé kino.</p><p><br></p><p>V bezprostřední blízkosti domu je OC Arkády Pankrác, Centrální park Pankrác, obchody, služby, restaurace, kavárny, školy, školky a mnoho příležitostí pro kulturní i sportovní vyžití. Stanice metra linky \"C\" Pankrác v docházkové vzdálenosti, cca 10min.</p>"
+  },
+  "poi_doctors": {
+    "url": "https://www.firmy.cz/Prvni-pomoc-a-zdravotnictvi/Zdravotnicke-sluzby/Zdravotnicka-zarizeni?x=14.4359705392&y=50.049054867&rt=adresa",
+    "values": [
+      {
+        "distance": 597,
+        "rating": 4,
+        "description": "Veterinární klinika zelená liška",
+        "index": 1,
+        "url": "https://www.firmy.cz/detail/655752-veterinarni-klinika-zelena-liska-praha-krc.html",
+        "lines": [],
+        "lon": 14.442986488342285,
+        "source": "firm",
+        "source_id": 655752,
+        "lat": 50.04613494873047,
+        "review_count": 13,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_G_B/acKJGz.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/164",
+        "name": "Veterinář"
+      },
+      {
+        "distance": 925,
+        "rating": 5,
+        "description": "Canadian Medical - Pankrác House",
+        "walkDistance": 1227,
+        "index": 1,
+        "url": "https://www.firmy.cz/detail/12899214-canadian-medical-pankrac-house-praha-nusle.html",
+        "lines": [],
+        "lon": 14.432601928710938,
+        "source": "firm",
+        "source_id": 12899214,
+        "time": 1111,
+        "lat": 50.057090759277344,
+        "review_count": 4,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_G_C/lU5BItw.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/418",
+        "name": "Lékař"
+      },
+      {
+        "distance": 1236,
+        "rating": 5,
+        "description": "MVDr. Lucie Boháčová",
+        "index": 2,
+        "url": "https://www.firmy.cz/detail/2646562-mvdr-lucie-bohacova-praha-podoli.html",
+        "lines": [],
+        "lon": 14.424810409545898,
+        "source": "firm",
+        "source_id": 2646562,
+        "lat": 50.05754852294922,
+        "review_count": 5,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_QP_w/9qfLBV.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/164",
+        "name": "Veterinář"
+      },
+      {
+        "distance": 1299,
+        "rating": 4,
+        "description": "Poliklinika Budějovická",
+        "index": 2,
+        "url": "https://www.firmy.cz/detail/12900054-poliklinika-budejovicka-praha-krc.html",
+        "lines": [],
+        "lon": 14.451070785522461,
+        "source": "firm",
+        "source_id": 12900054,
+        "lat": 50.04253387451172,
+        "review_count": 20,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_G_C/b5XBLoX.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/418",
+        "name": "Lékař"
+      },
+      {
+        "distance": 1409,
+        "rating": -1,
+        "description": "TeamPrevent-Santé, s.r.o.",
+        "index": 3,
+        "url": "https://www.firmy.cz/detail/658659-teamprevent-sante-s-r-o-praha-michle.html",
+        "lines": [],
+        "lon": 14.455706596374512,
+        "source": "firm",
+        "source_id": 658659,
+        "lat": 50.04894256591797,
+        "review_count": 0,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_H_D/L5Yh1O.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/418",
+        "name": "Lékař"
+      }
+    ],
+    "name": "Lékaři"
+  },
+  "poi": [
+    {
+      "distance": 102,
+      "rating": 1,
+      "description": "NORMA, k.s.",
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/2182167-norma-k-s-praha-krc.html",
+      "lines": [],
+      "lon": 14.436092376708984,
+      "source": "firm",
+      "source_id": 2182167,
+      "lat": 50.04813766479492,
+      "review_count": 1,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_H_D/vy4BewU.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/423",
+      "name": "Večerka"
+    },
+    {
+      "distance": 826,
+      "rating": -1,
+      "description": "Umělecká agentura Pierot",
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/602897-umelecka-agentura-pierot-praha-krc.html",
+      "lines": [],
+      "lon": 14.44216251373291,
+      "source": "firm",
+      "source_id": 602897,
+      "lat": 50.04277801513672,
+      "review_count": 0,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_QQ_o/lI6Ejb.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/39",
+      "name": "Divadlo"
+    },
+    {
+      "distance": 243,
+      "rating": -1,
+      "description": "Pankrácký Rynek",
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/12869742-pankracky-rynek-praha-nusle.html",
+      "lines": [],
+      "lon": 14.43907356262207,
+      "source": "firm",
+      "source_id": 12869742,
+      "lat": 50.04994583129883,
+      "review_count": 0,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_H_D/4RABtlc.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/38",
+      "name": "Cukrárna"
+    },
+    {
+      "distance": 144,
+      "rating": -1,
+      "description": "Dětské hřiště Pujmanové",
+      "index": 1,
+      "url": "https://mapy.cz/zakladni?x=14.4349427778&y=50.0479361111&z=17&source=base&id=2081058",
+      "lines": [],
+      "lon": 14.4349427778,
+      "source": "base",
+      "source_id": 2081058,
+      "lat": 50.0479361111,
+      "review_count": 0,
+      "photo_url": "https://d34-a.sdn.cz/d_34/c_img_E_C/lfoUo.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/204",
+      "name": "Hřiště"
+    },
+    {
+      "distance": 395,
+      "rating": 5,
+      "description": "Hostinec U Procházků",
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/573112-hostinec-u-prochazku-praha-krc.html",
+      "lines": [],
+      "lon": 14.441217422485352,
+      "source": "firm",
+      "source_id": 573112,
+      "lat": 50.04793167114258,
+      "review_count": 3,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_gS_t/NJNTwt.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/362",
+      "name": "Hospoda"
+    },
+    {
+      "distance": 2682,
+      "rating": -1,
+      "description": "HopeTV",
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/672889-hopetv-praha-vinohrady.html",
+      "lines": [],
+      "lon": 14.434693336486816,
+      "source": "firm",
+      "source_id": 672889,
+      "lat": 50.073158264160156,
+      "review_count": 0,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_gV_v/sx3Y7A.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/62",
+      "name": "Kino"
+    },
+    {
+      "distance": 597,
+      "rating": 4,
+      "description": "Veterinární klinika zelená liška",
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/655752-veterinarni-klinika-zelena-liska-praha-krc.html",
+      "lines": [],
+      "lon": 14.442986488342285,
+      "source": "firm",
+      "source_id": 655752,
+      "lat": 50.04613494873047,
+      "review_count": 13,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_G_B/acKJGz.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/164",
+      "name": "Veterinář"
+    },
+    {
+      "distance": 925,
+      "rating": 5,
+      "description": "Canadian Medical - Pankrác House",
+      "walkDistance": 1227,
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/12899214-canadian-medical-pankrac-house-praha-nusle.html",
+      "lines": [],
+      "lon": 14.432601928710938,
+      "source": "firm",
+      "source_id": 12899214,
+      "time": 1111,
+      "lat": 50.057090759277344,
+      "review_count": 4,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_G_C/lU5BItw.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/418",
+      "name": "Lékař"
+    },
+    {
+      "distance": 123,
+      "rating": 1,
+      "description": "Restaurace Peking",
+      "walkDistance": 213,
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/2680271-restaurace-peking-praha-krc.html",
+      "lines": [],
+      "lon": 14.434931755065918,
+      "source": "firm",
+      "source_id": 2680271,
+      "time": 198,
+      "lat": 50.04817199707031,
+      "review_count": 2,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_QP_z/tvnFYa.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/133",
+      "name": "Restaurace"
+    },
+    {
+      "distance": 718,
+      "rating": 5,
+      "description": "Lékárna U sv. Pankráce",
+      "walkDistance": 1055,
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/422787-lekarna-u-sv-pankrace-praha-nusle.html",
+      "lines": [],
+      "lon": 14.435903549194336,
+      "source": "firm",
+      "source_id": 422787,
+      "time": 963,
+      "lat": 50.05550765991211,
+      "review_count": 3,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_E_F/gfziw.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/72",
+      "name": "Lékárna"
+    },
+    {
+      "distance": 49,
+      "rating": -1,
+      "description": "Sídliště Pankrác",
+      "walkDistance": 131,
+      "index": 1,
+      "url": "https://mapy.cz/zakladni?x=14.4356462527&y=50.048667757&z=17&source=pubt&id=15304300",
+      "lines": [
+        {
+          "poi_id": 15304300,
+          "terminus": "Šeberák",
+          "line_label": "193",
+          "departure_direction": 1,
+          "line_id": "L193",
+          "type": "bus"
+        },
+        {
+          "poi_id": 15304300,
+          "terminus": "Sídliště Písnice",
+          "line_label": "904",
+          "departure_direction": 1,
+          "line_id": "L904",
+          "type": "bus"
+        }
+      ],
+      "lon": 14.4356462527,
+      "source": "pubt",
+      "source_id": 15304300,
+      "time": 125,
+      "lat": 50.048667757,
+      "review_count": 0,
+      "photo_url": "https://d34-a.sdn.cz/d_34/c_img_QR_T/FWSWe.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/198",
+      "name": "Bus MHD"
+    },
+    {
+      "distance": 200,
+      "rating": -1,
+      "description": "Raiffeisenbank - bankomat",
+      "walkDistance": 391,
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/2474609-raiffeisenbank-bankomat-praha-nusle.html",
+      "lines": [],
+      "lon": 14.436022758483887,
+      "source": "firm",
+      "source_id": 2474609,
+      "time": 358,
+      "lat": 50.05085372924805,
+      "review_count": 0,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_H_D/H2efhm.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/28",
+      "name": "Bankomat"
+    },
+    {
+      "distance": 243,
+      "rating": 5,
+      "description": "Rodinné Centrum HONZÍK",
+      "walkDistance": 297,
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/2634982-rodinne-centrum-honzik-praha-krc.html",
+      "lines": [],
+      "lon": 14.438105583190918,
+      "source": "firm",
+      "source_id": 2634982,
+      "time": 274,
+      "lat": 50.0473518371582,
+      "review_count": 1,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_H_D/xPk7xf.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/412",
+      "name": "Školka"
+    },
+    {
+      "distance": 309,
+      "rating": 4,
+      "description": "První jazyková ZŠ v Praze 4",
+      "walkDistance": 336,
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/181662-prvni-jazykova-zs-v-praze-4-praha-krc.html",
+      "lines": [],
+      "lon": 14.436508178710938,
+      "source": "firm",
+      "source_id": 181662,
+      "time": 316,
+      "lat": 50.04629898071289,
+      "review_count": 4,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_H_D/PijBeE5.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/142",
+      "name": "Škola"
+    },
+    {
+      "distance": 417,
+      "rating": -1,
+      "description": "Pankrác",
+      "walkDistance": 589,
+      "index": 1,
+      "url": "https://mapy.cz/zakladni?x=14.43908&y=50.05223&z=17&source=pubt&id=19802667",
+      "lines": [
+        {
+          "poi_id": 19802667,
+          "terminus": "Spojovací",
+          "line_label": "19",
+          "departure_direction": 1,
+          "line_id": "L19",
+          "type": "tram"
+        }
+      ],
+      "lon": 14.43908,
+      "source": "pubt",
+      "source_id": 19802667,
+      "time": 537,
+      "lat": 50.05223,
+      "review_count": 0,
+      "photo_url": "https://d34-a.sdn.cz/d_34/c_img_gT_g/1A9ygO.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/155",
+      "name": "Tram"
+    },
+    {
+      "distance": 354,
+      "rating": -1,
+      "description": "Pankrác",
+      "walkDistance": 494,
+      "index": 1,
+      "url": "https://mapy.cz/zakladni?x=14.4398482855&y=50.0510338732&z=17&source=pubt&id=15200202",
+      "lines": [
+        {
+          "poi_id": 15200202,
+          "terminus": "Háje",
+          "line_label": "C",
+          "departure_direction": 1,
+          "line_id": "L993",
+          "type": "metro"
+        },
+        {
+          "poi_id": 15200202,
+          "terminus": "Letňany",
+          "line_label": "C",
+          "departure_direction": -1,
+          "line_id": "L993",
+          "type": "metro"
+        }
+      ],
+      "lon": 14.4398482855,
+      "source": "pubt",
+      "source_id": 15200202,
+      "time": 465,
+      "lat": 50.0510338732,
+      "review_count": 0,
+      "photo_url": "https://d34-a.sdn.cz/d_34/c_img_gR_i/KU5yr.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/263",
+      "name": "Metro"
+    },
+    {
+      "distance": 412,
+      "rating": 2,
+      "description": "Pošta Praha 4 - Česká pošta, s.p.",
+      "walkDistance": 482,
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/216681-posta-praha-4-praha-krc.html",
+      "lines": [],
+      "lon": 14.441737174987793,
+      "source": "firm",
+      "source_id": 216681,
+      "time": 440,
+      "lat": 50.0489501953125,
+      "review_count": 37,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_G_C/qcljjx.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/122",
+      "name": "Pošta"
+    },
+    {
+      "distance": 1803,
+      "rating": -1,
+      "description": "Praha-Krč",
+      "walkDistance": 2207,
+      "index": 1,
+      "url": "https://mapy.cz/zakladni?x=14.4459680257&y=50.0341635187&z=17&source=pubt&id=15212570",
+      "lines": [],
+      "lon": 14.4459680257,
+      "source": "pubt",
+      "source_id": 15212570,
+      "time": 2105,
+      "lat": 50.0341635187,
+      "review_count": 0,
+      "photo_url": "https://d34-a.sdn.cz/d_34/c_img_F_N/wM6fII.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/169",
+      "name": "Vlak"
+    },
+    {
+      "distance": 227,
+      "rating": 4,
+      "description": "Arkády Pankrác",
+      "walkDistance": 346,
+      "index": 1,
+      "url": "https://www.firmy.cz/detail/2245240-arkady-pankrac-praha-nusle.html",
+      "lines": [],
+      "lon": 14.437548637390137,
+      "source": "firm",
+      "source_id": 2245240,
+      "time": 318,
+      "lat": 50.05082702636719,
+      "review_count": 67,
+      "photo_url": "//d48-a.sdn.cz/d_48/c_img_G_C/uRfITR.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/419",
+      "name": "Obchod"
+    },
+    {
+      "distance": 298,
+      "rating": -1,
+      "description": "Pétanque park Na Pankráci",
+      "walkDistance": 466,
+      "index": 1,
+      "url": "https://mapy.cz/zakladni?x=14.4319969444&y=50.0498827778&z=17&source=base&id=2083186",
+      "lines": [],
+      "lon": 14.4319969444,
+      "source": "base",
+      "source_id": 2083186,
+      "time": 433,
+      "lat": 50.0498827778,
+      "review_count": 0,
+      "photo_url": "https://d34-a.sdn.cz/d_34/c_img_QP_o/taFGtm.jpeg?fl=res,{width},{height},3",
+      "imgUrl": "https://api.mapy.cz/poiimg/icon/458",
+      "name": "Sportoviště"
+    }
+  ],
+  "seo": {
+    "category_main_cb": 1,
+    "category_sub_cb": 6,
+    "category_type_cb": 1,
+    "locality": "praha-krc-milevska"
+  },
+  "codeItems": {
+    "something_more3": [
+      3310
+    ],
+    "something_more2": [
+      3140,
+      3150
+    ],
+    "something_more1": [
+      3110,
+      3120
+    ],
+    "ownership": 1,
+    "building_type_search": 3
+  },
+  "meta_description": "Byt 3+kk 137 m² k prodeji Milevská, Praha 4 - Krč; 0 Kč (+ poplatky: žádné), terasa, parkovací místo, garáž, výtah, skeletová stavba, osobní vlastnictví, ve velmi dobrém stavu.",
+  "_embedded": {
+    "favourite": {
+      "is_favourite": false,
+      "_links": {
+        "self": {
+          "href": "/cs/v2/favourite/3382502988"
+        }
+      }
+    },
+    "calculator": null,
+    "seller": {
+      "specialization_string": "",
+      "user_id": 94032,
+      "specialization": {
+        "category": [
+          {
+            "category_main_cb": 1,
+            "num": 229
+          },
+          {
+            "category_main_cb": 2,
+            "num": 57
+          },
+          {
+            "category_main_cb": 3,
+            "num": 27
+          },
+          {
+            "category_main_cb": 4,
+            "num": 21
+          },
+          {
+            "category_main_cb": 5,
+            "num": 1
+          }
+        ],
+        "type": [
+          {
+            "num": 169,
+            "category_type_cb": 1
+          },
+          {
+            "num": 166,
+            "category_type_cb": 2
+          }
+        ]
+      },
+      "broker_video": {},
+      "phones": [
+        {
+          "code": "420",
+          "type": "TEL",
+          "number": "221111999"
+        },
+        {
+          "code": "420",
+          "type": "MOB",
+          "number": "722531019"
+        }
+      ],
+      "image": "https://d18-a.sdn.cz/d_18/c_img_H_BR/DqmUbO.jpeg",
+      "broker_ico": 0,
+      "image_dynamic": "https://d18-a.sdn.cz/d_18/c_img_H_BR/DqmUbO.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90",
+      "active": true,
+      "offers": [],
+      "_links": {
+        "self": {
+          "profile": "/seller/1/doc",
+          "href": "/cs/v2/seller/94032"
+        }
+      },
+      "user_name": "Adéla Bukovská - recepce",
+      "certificates": [],
+      "broker_tip_description": "",
+      "_embedded": {
+        "premise": {
+          "www": "https://www.lexxusnorton.cz",
+          "phones": [
+            {
+              "code": "420",
+              "type": "TEL",
+              "number": "221111900"
+            },
+            {
+              "code": "420",
+              "type": "TEL",
+              "number": "722531019"
+            }
+          ],
+          "poi_logo": "",
+          "logo": "https://d48-a.sdn.cz/d_48/c_img_gY_t/4kQC77.png?fl=res,140,140,3,ffffff",
+          "company_subject_id": 2025528,
+          "id": 578,
+          "ico": 26208024,
+          "locality": {
+            "lat": 50.0884747222,
+            "lon": 14.4296047208
+          },
+          "company_id": 271,
+          "allow_calculator": 1,
+          "logo_small": "https://d48-a.sdn.cz/d_48/c_img_gY_t/4kQC77.png?fl=res,70,70,1,ffffff",
+          "seznam_naplno": 1,
+          "_links": {
+            "self": {
+              "profile": "/companies/1/doc",
+              "href": "/cs/v2/companies/578"
+            }
+          },
+          "retargeting_id": 0,
+          "email": "info@lexxusnorton.cz",
+          "description": "Jsme realitní kancelář zaměřující se na Prahu a blízké okolí. Už tři desetiletí sledujeme nejen trh s nemovitostmi, ale i trendy v bydlení, a tak jsme připraveni najít to pravé místo, které bude přesně odpovídat vašemu stylu a vkusu. Umíme pomoci také s prodejem nemovitosti.",
+          "address": "Na Poříčí 2090/2, 11000 Praha - Nové Město",
+          "ask": {
+            "opening_time_visible": true,
+            "phones": [
+              {
+                "role": "Telefon",
+                "number": "221111900",
+                "country_code": "420"
+              },
+              {
+                "role": "Mobil",
+                "number": "722531019",
+                "country_code": "420"
+              }
+            ],
+            "addr_street": "Na Poříčí",
+            "address": "Na Poříčí 2090/2, 110 00  Praha, Nové Město",
+            "pie": [
+              {
+                "category_main_cb": 1,
+                "num": 229
+              },
+              {
+                "category_main_cb": 2,
+                "num": 57
+              },
+              {
+                "category_main_cb": 3,
+                "num": 27
+              },
+              {
+                "category_main_cb": 4,
+                "num": 21
+              },
+              {
+                "category_main_cb": 5,
+                "num": 1
+              }
+            ],
+            "opening_time_additional_info": "",
+            "opening_time_st": [
+              {
+                "amStart": {
+                  "hour": 8,
+                  "minute": 30
+                },
+                "relative_sort": 4,
+                "specification_id": "open",
+                "amEnd": {
+                  "hour": 18,
+                  "minute": 0
+                },
+                "additional_info": "",
+                "exception_id": "",
+                "date": "2023-03-27",
+                "day": "monday",
+                "nonstop": false
+              },
+              {
+                "amStart": {
+                  "hour": 8,
+                  "minute": 30
+                },
+                "relative_sort": 5,
+                "specification_id": "open",
+                "amEnd": {
+                  "hour": 18,
+                  "minute": 0
+                },
+                "additional_info": "",
+                "exception_id": "",
+                "date": "2023-03-28",
+                "day": "tuesday",
+                "nonstop": false
+              },
+              {
+                "amStart": {
+                  "hour": 8,
+                  "minute": 30
+                },
+                "relative_sort": 6,
+                "specification_id": "open",
+                "amEnd": {
+                  "hour": 18,
+                  "minute": 0
+                },
+                "additional_info": "",
+                "exception_id": "",
+                "date": "2023-03-29",
+                "day": "wednesday",
+                "nonstop": false
+              },
+              {
+                "amStart": {
+                  "hour": 8,
+                  "minute": 30
+                },
+                "relative_sort": 0,
+                "specification_id": "open",
+                "amEnd": {
+                  "hour": 18,
+                  "minute": 0
+                },
+                "additional_info": "",
+                "exception_id": "",
+                "date": "2023-03-23",
+                "day": "thursday",
+                "nonstop": false
+              },
+              {
+                "amStart": {
+                  "hour": 8,
+                  "minute": 30
+                },
+                "relative_sort": 1,
+                "specification_id": "open",
+                "amEnd": {
+                  "hour": 17,
+                  "minute": 0
+                },
+                "additional_info": "",
+                "exception_id": "",
+                "date": "2023-03-24",
+                "day": "friday",
+                "nonstop": false
+              },
+              {
+                "relative_sort": 2,
+                "exception_id": "",
+                "day": "saturday",
+                "specification_id": "closed",
+                "date": "2023-03-25",
+                "additional_info": "",
+                "nonstop": false
+              },
+              {
+                "relative_sort": 3,
+                "exception_id": "",
+                "day": "sunday",
+                "specification_id": "closed",
+                "date": "2023-03-26",
+                "additional_info": "",
+                "nonstop": false
+              }
+            ],
+            "photos_url": [],
+            "partners": [],
+            "review_count": 10,
+            "firmy_review_url": "https://www.firmy.cz/detail/185829-lexxus-norton-praha-nove-mesto.html#pridat-hodnoceni",
+            "emails": [
+              {
+                "role": "E-mail",
+                "email": "info@lexxusnorton.cz"
+              }
+            ],
+            "offers": [],
+            "stars": 4,
+            "opening_time": [
+              "0,08:30,18:00,,",
+              "0,08:30,18:00,,",
+              "0,08:30,18:00,,",
+              "0,08:30,18:00,,",
+              "0,08:30,17:00,,",
+              "0,,,,",
+              "0,,,,"
+            ],
+            "email": "info@lexxus.cz",
+            "opening_time_today": 3,
+            "description": "Jsme realitní kancelář zaměřující se na Prahu a blízké okolí. Už tři desetiletí sledujeme nejen trh s nemovitostmi, ale i trendy v bydlení, a tak jsme připraveni najít to pravé místo, které bude přesně odpovídat vašemu stylu a vkusu. Umíme pomoci také s prodejem nemovitosti.",
+            "photos_premise_url": [
+              {
+                "full": "https://d48-a.sdn.cz/d_48/c_img_QQ_r/t7kFFa.jpeg?fl=res,600,400,3,ffffff",
+                "description": {
+                  "source": "firmy_userweb",
+                  "type": "mphoto",
+                  "id": 5559191,
+                  "visits": 958440,
+                  "metadata": {
+                    "size": [
+                      1620,
+                      1078
+                    ]
+                  }
+                },
+                "hintGallery": "https://d48-a.sdn.cz/d_48/c_img_QQ_r/t7kFFa.jpeg?fl=res,1200,900,1",
+                "big": "https://d48-a.sdn.cz/d_48/c_img_QQ_r/t7kFFa.jpeg",
+                "half": "https://d48-a.sdn.cz/d_48/c_img_QQ_r/t7kFFa.jpeg?fl=res,300,200,3,ffffff",
+                "list": "https://d48-a.sdn.cz/d_48/c_img_QQ_r/t7kFFa.jpeg?fl=res,220,147,3,ffffff",
+                "mapcircle": "https://d48-a.sdn.cz/d_48/c_img_QQ_r/t7kFFa.jpeg?fl=res,59,59,3,ffffff",
+                "hintThumbMedium": "https://d48-a.sdn.cz/d_48/c_img_QQ_r/t7kFFa.jpeg?fl=res,600,400,3",
+                "small": "https://d48-a.sdn.cz/d_48/c_img_QQ_r/t7kFFa.jpeg?fl=res,112,84,1,ffffff",
+                "medium": "https://d48-a.sdn.cz/d_48/c_img_QQ_r/t7kFFa.jpeg?fl=res,600,450,1,ffffff",
+                "noborder": "https://d48-a.sdn.cz/d_48/c_img_QQ_r/t7kFFa.jpeg?fl=res,600,450,3,ffffff",
+                "hintThumbSmall": "https://d48-a.sdn.cz/d_48/c_img_QQ_r/t7kFFa.jpeg?fl=res,300,200,3",
+                "gallery": "https://d48-a.sdn.cz/d_48/c_img_QQ_r/t7kFFa.jpeg?fl=res,250,167,3,ffffff",
+                "orig": "https://d48-a.sdn.cz/d_48/c_img_QQ_r/t7kFFa.jpeg"
+              }
+            ],
+            "opening_time_next_week": [
+              {
+                "amStart": {
+                  "hour": 8,
+                  "minute": 30
+                },
+                "relative_sort": 4,
+                "specification_id": "open",
+                "amEnd": {
+                  "hour": 18,
+                  "minute": 0
+                },
+                "additional_info": "",
+                "exception_id": "",
+                "date": "2023-04-03",
+                "day": "monday",
+                "nonstop": false
+              },
+              {
+                "amStart": {
+                  "hour": 8,
+                  "minute": 30
+                },
+                "relative_sort": 5,
+                "specification_id": "open",
+                "amEnd": {
+                  "hour": 18,
+                  "minute": 0
+                },
+                "additional_info": "",
+                "exception_id": "",
+                "date": "2023-04-04",
+                "day": "tuesday",
+                "nonstop": false
+              },
+              {
+                "amStart": {
+                  "hour": 8,
+                  "minute": 30
+                },
+                "relative_sort": 6,
+                "specification_id": "open",
+                "amEnd": {
+                  "hour": 18,
+                  "minute": 0
+                },
+                "additional_info": "",
+                "exception_id": "",
+                "date": "2023-04-05",
+                "day": "wednesday",
+                "nonstop": false
+              },
+              {
+                "amStart": {
+                  "hour": 8,
+                  "minute": 30
+                },
+                "relative_sort": 0,
+                "specification_id": "open",
+                "amEnd": {
+                  "hour": 18,
+                  "minute": 0
+                },
+                "additional_info": "",
+                "exception_id": "",
+                "date": "2023-03-30",
+                "day": "thursday",
+                "nonstop": false
+              },
+              {
+                "amStart": {
+                  "hour": 8,
+                  "minute": 30
+                },
+                "relative_sort": 1,
+                "specification_id": "open",
+                "amEnd": {
+                  "hour": 17,
+                  "minute": 0
+                },
+                "additional_info": "",
+                "exception_id": "",
+                "date": "2023-03-31",
+                "day": "friday",
+                "nonstop": false
+              },
+              {
+                "relative_sort": 2,
+                "exception_id": "",
+                "day": "saturday",
+                "specification_id": "closed",
+                "date": "2023-04-01",
+                "additional_info": "",
+                "nonstop": false
+              },
+              {
+                "relative_sort": 3,
+                "exception_id": "",
+                "day": "sunday",
+                "specification_id": "closed",
+                "date": "2023-04-02",
+                "additional_info": "",
+                "nonstop": false
+              }
+            ],
+            "addr_city": "Praha, Nové Město",
+            "opening_time_today_date": "2023-03-23",
+            "is_paid": true,
+            "addr_zip": "11000",
+            "opening_time_description": "Provozní hodiny",
+            "addr_house_num": "2090/2"
+          },
+          "name": "LEXXUS NORTON",
+          "url": "LEXXUS-NORTON-Praha-Nove-Mesto",
+          "ask_id": 185829,
+          "company_paid_firmy": 1,
+          "www_visible": "https://www.lexxusnorton.cz"
+        }
+      },
+      "in_banner_seller": false,
+      "email": "info@lexxus.cz",
+      "ask": {}
+    },
+    "note": {
+      "note": "",
+      "_links": {
+        "self": {
+          "href": "/cs/v2/note/3382502988"
+        }
+      },
+      "has_note": false
+    },
+    "images": [
+      {
+        "kind": 2,
+        "_links": {
+          "dynamicDown": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QO_Ks/zHPCA5A.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+          },
+          "gallery": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QO_Ks/zHPCA5A.jpeg?fl=res,221,166,3|shr,,20|jpg,90"
+          },
+          "self": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QO_Ks/zHPCA5A.jpeg?fl=res,1920,1080,1|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "dynamicUp": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QO_Ks/zHPCA5A.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "view": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QO_Ks/zHPCA5A.jpeg?fl=res,749,562,3|shr,,20|jpg,90"
+          }
+        },
+        "id": 844440929,
+        "order": 1
+      },
+      {
+        "kind": 2,
+        "_links": {
+          "dynamicDown": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/41XVd.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+          },
+          "gallery": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/41XVd.jpeg?fl=res,221,166,3|shr,,20|jpg,90"
+          },
+          "self": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/41XVd.jpeg?fl=res,1920,1080,1|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "dynamicUp": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/41XVd.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "view": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/41XVd.jpeg?fl=res,749,562,3|shr,,20|jpg,90"
+          }
+        },
+        "id": 844440932,
+        "order": 2
+      },
+      {
+        "kind": 2,
+        "_links": {
+          "dynamicDown": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/gKLVe.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+          },
+          "gallery": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/gKLVe.jpeg?fl=res,221,166,3|shr,,20|jpg,90"
+          },
+          "self": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/gKLVe.jpeg?fl=res,1920,1080,1|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "dynamicUp": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/gKLVe.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "view": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/gKLVe.jpeg?fl=res,749,562,3|shr,,20|jpg,90"
+          }
+        },
+        "id": 844440935,
+        "order": 2
+      },
+      {
+        "kind": 2,
+        "_links": {
+          "dynamicDown": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KW/saHBeYf.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+          },
+          "gallery": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KW/saHBeYf.jpeg?fl=res,221,166,3|shr,,20|jpg,90"
+          },
+          "self": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KW/saHBeYf.jpeg?fl=res,1920,1080,1|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "dynamicUp": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KW/saHBeYf.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "view": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KW/saHBeYf.jpeg?fl=res,749,562,3|shr,,20|jpg,90"
+          }
+        },
+        "id": 844440938,
+        "order": 2
+      },
+      {
+        "kind": 2,
+        "_links": {
+          "dynamicDown": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jy/zlBBLeo.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+          },
+          "gallery": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jy/zlBBLeo.jpeg?fl=res,221,166,3|shr,,20|jpg,90"
+          },
+          "self": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jy/zlBBLeo.jpeg?fl=res,1920,1080,1|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "dynamicUp": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jy/zlBBLeo.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "view": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jy/zlBBLeo.jpeg?fl=res,749,562,3|shr,,20|jpg,90"
+          }
+        },
+        "id": 844440941,
+        "order": 2
+      },
+      {
+        "kind": 2,
+        "_links": {
+          "dynamicDown": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QO_Ks/gaHCA5B.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+          },
+          "gallery": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QO_Ks/gaHCA5B.jpeg?fl=res,221,166,3|shr,,20|jpg,90"
+          },
+          "self": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QO_Ks/gaHCA5B.jpeg?fl=res,1920,1080,1|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "dynamicUp": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QO_Ks/gaHCA5B.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "view": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QO_Ks/gaHCA5B.jpeg?fl=res,749,562,3|shr,,20|jpg,90"
+          }
+        },
+        "id": 844440944,
+        "order": 2
+      },
+      {
+        "kind": 2,
+        "_links": {
+          "dynamicDown": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Jg/quGQl8.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+          },
+          "gallery": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Jg/quGQl8.jpeg?fl=res,221,166,3|shr,,20|jpg,90"
+          },
+          "self": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Jg/quGQl8.jpeg?fl=res,1920,1080,1|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "dynamicUp": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Jg/quGQl8.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "view": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Jg/quGQl8.jpeg?fl=res,749,562,3|shr,,20|jpg,90"
+          }
+        },
+        "id": 844440947,
+        "order": 2
+      },
+      {
+        "kind": 2,
+        "_links": {
+          "dynamicDown": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/BfdVf.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+          },
+          "gallery": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/BfdVf.jpeg?fl=res,221,166,3|shr,,20|jpg,90"
+          },
+          "self": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/BfdVf.jpeg?fl=res,1920,1080,1|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "dynamicUp": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/BfdVf.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "view": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jz/BfdVf.jpeg?fl=res,749,562,3|shr,,20|jpg,90"
+          }
+        },
+        "id": 844440950,
+        "order": 2
+      },
+      {
+        "kind": 2,
+        "_links": {
+          "dynamicDown": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jh/39XBLz8.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+          },
+          "gallery": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jh/39XBLz8.jpeg?fl=res,221,166,3|shr,,20|jpg,90"
+          },
+          "self": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jh/39XBLz8.jpeg?fl=res,1920,1080,1|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "dynamicUp": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jh/39XBLz8.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "view": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jh/39XBLz8.jpeg?fl=res,749,562,3|shr,,20|jpg,90"
+          }
+        },
+        "id": 844440953,
+        "order": 2
+      },
+      {
+        "kind": 2,
+        "_links": {
+          "dynamicDown": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jy/JCsBLep.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+          },
+          "gallery": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jy/JCsBLep.jpeg?fl=res,221,166,3|shr,,20|jpg,90"
+          },
+          "self": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jy/JCsBLep.jpeg?fl=res,1920,1080,1|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "dynamicUp": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jy/JCsBLep.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "view": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jy/JCsBLep.jpeg?fl=res,749,562,3|shr,,20|jpg,90"
+          }
+        },
+        "id": 844440956,
+        "order": 2
+      },
+      {
+        "kind": 2,
+        "_links": {
+          "dynamicDown": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jh/7ktBLz9.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+          },
+          "gallery": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jh/7ktBLz9.jpeg?fl=res,221,166,3|shr,,20|jpg,90"
+          },
+          "self": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jh/7ktBLz9.jpeg?fl=res,1920,1080,1|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "dynamicUp": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jh/7ktBLz9.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "view": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_Jh/7ktBLz9.jpeg?fl=res,749,562,3|shr,,20|jpg,90"
+          }
+        },
+        "id": 844440959,
+        "order": 2
+      },
+      {
+        "kind": 2,
+        "_links": {
+          "dynamicDown": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Jg/X1pQl9.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+          },
+          "gallery": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Jg/X1pQl9.jpeg?fl=res,221,166,3|shr,,20|jpg,90"
+          },
+          "self": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Jg/X1pQl9.jpeg?fl=res,1920,1080,1|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "dynamicUp": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Jg/X1pQl9.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "view": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_Jg/X1pQl9.jpeg?fl=res,749,562,3|shr,,20|jpg,90"
+          }
+        },
+        "id": 844440962,
+        "order": 2
+      },
+      {
+        "kind": 2,
+        "_links": {
+          "dynamicDown": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QP_Kx/53RB5YU.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+          },
+          "gallery": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QP_Kx/53RB5YU.jpeg?fl=res,221,166,3|shr,,20|jpg,90"
+          },
+          "self": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QP_Kx/53RB5YU.jpeg?fl=res,1920,1080,1|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "dynamicUp": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QP_Kx/53RB5YU.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+          },
+          "view": {
+            "href": "https://d18-a.sdn.cz/d_18/c_img_QP_Kx/53RB5YU.jpeg?fl=res,749,562,3|shr,,20|jpg,90"
+          }
+        },
+        "id": 844440965,
+        "order": 2
+      }
+    ],
+    "matterport_url": ""
+  },
+  "locality": {
+    "name": "Adresa",
+    "value": "Milevská, Praha 4 - Krč",
+    "accuracy": "address"
+  },
+  "panorama": 1,
+  "poi_leisure_time": {
+    "url": "https://mapy.cz/zakladni?x=14.4359705392&y=50.049054867&z=16&q=volny%20%C4%8Das",
+    "values": [
+      {
+        "distance": 298,
+        "rating": -1,
+        "description": "Pétanque park Na Pankráci",
+        "walkDistance": 466,
+        "index": 1,
+        "url": "https://mapy.cz/zakladni?x=14.4319969444&y=50.0498827778&z=17&source=base&id=2083186",
+        "lines": [],
+        "lon": 14.4319969444,
+        "source": "base",
+        "source_id": 2083186,
+        "time": 433,
+        "lat": 50.0498827778,
+        "review_count": 0,
+        "photo_url": "https://d34-a.sdn.cz/d_34/c_img_QP_o/taFGtm.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/458",
+        "name": "Sportoviště"
+      },
+      {
+        "distance": 309,
+        "rating": 5,
+        "description": "Beachklub Praha Pankrác",
+        "index": 2,
+        "url": "https://www.firmy.cz/detail/2522477-beachklub-praha-pankrac-praha-krc.html",
+        "lines": [],
+        "lon": 14.436508178710938,
+        "source": "firm",
+        "source_id": 2522477,
+        "lat": 50.04629898071289,
+        "review_count": 1,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_QP_z/JeXFJZ.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/144",
+        "name": "Sportoviště"
+      },
+      {
+        "distance": 408,
+        "rating": -1,
+        "description": "TJ Zelená Liška",
+        "index": 3,
+        "url": "https://www.firmy.cz/detail/2648782-tj-zelena-liska-praha-krc.html",
+        "lines": [],
+        "lon": 14.440404891967773,
+        "source": "firm",
+        "source_id": 2648782,
+        "lat": 50.04673385620117,
+        "review_count": 0,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_QP_z/CGCDNS.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/144",
+        "name": "Sportoviště"
+      },
+      {
+        "distance": 556,
+        "rating": -1,
+        "description": "Hit tenis, s.r.o.",
+        "index": 4,
+        "url": "https://www.firmy.cz/detail/157528-hit-tenis-praha-krc.html",
+        "lines": [],
+        "lon": 14.43493366241455,
+        "source": "firm",
+        "source_id": 157528,
+        "lat": 50.04410171508789,
+        "review_count": 0,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_F_B/U9zmB.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/153",
+        "name": "Sportoviště"
+      },
+      {
+        "distance": 556,
+        "rating": 5,
+        "description": "SPORTOVNÍ KLUB OAZA PRAHA",
+        "index": 5,
+        "url": "https://www.firmy.cz/detail/166115-sportovni-klub-oaza-praha-praha-krc.html",
+        "lines": [],
+        "lon": 14.43493366241455,
+        "source": "firm",
+        "source_id": 166115,
+        "lat": 50.04410171508789,
+        "review_count": 2,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_F_B/KsomC.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/144",
+        "name": "Sportoviště"
+      }
+    ],
+    "name": "Volný čas"
+  },
+  "_links": {
+    "similar_adverts": {
+      "href": "/cs/v2/estates?category_main_cb=1&locality_district_id=5004&category_sub_cb=6&category_type_cb=1",
+      "title": "Prodej bytů 3+kk Praha 4"
+    },
+    "self": {
+      "profile": "/estates/1/doc",
+      "href": "/cs/v2/estates/3382502988",
+      "title": "Detail inzeratu"
+    },
+    "local_search": {
+      "href": "/cs/v2/estates?category_main_cb=1&region=Praha&region_entity_type=osmm&category_type_cb=1",
+      "title": "Prodej bytů Praha"
+    },
+    "broader_search": {
+      "href": "/cs/v2/estates?category_main_cb=1&locality_district_id=5004&category_type_cb=1",
+      "title": "Prodej bytů Praha 4"
+    }
+  },
+  "poi_school_kindergarten": {
+    "url": "https://www.firmy.cz/Instituce-a-urady/Vzdelavaci-instituce?x=14.4359705392&y=50.049054867&rt=adresa",
+    "values": [
+      {
+        "distance": 243,
+        "rating": 5,
+        "description": "Rodinné Centrum HONZÍK",
+        "walkDistance": 297,
+        "index": 1,
+        "url": "https://www.firmy.cz/detail/2634982-rodinne-centrum-honzik-praha-krc.html",
+        "lines": [],
+        "lon": 14.438105583190918,
+        "source": "firm",
+        "source_id": 2634982,
+        "time": 274,
+        "lat": 50.0473518371582,
+        "review_count": 1,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_H_D/xPk7xf.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/412",
+        "name": "Školka"
+      },
+      {
+        "distance": 309,
+        "rating": 4,
+        "description": "První jazyková ZŠ v Praze 4",
+        "walkDistance": 336,
+        "index": 1,
+        "url": "https://www.firmy.cz/detail/181662-prvni-jazykova-zs-v-praze-4-praha-krc.html",
+        "lines": [],
+        "lon": 14.436508178710938,
+        "source": "firm",
+        "source_id": 181662,
+        "time": 316,
+        "lat": 50.04629898071289,
+        "review_count": 4,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_H_D/PijBeE5.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/142",
+        "name": "Škola"
+      },
+      {
+        "distance": 358,
+        "rating": -1,
+        "description": "MŠ 4 pastelky, Praha 4, Sedlčanská",
+        "index": 2,
+        "url": "https://www.firmy.cz/detail/12809391-ms-4-pastelky-praha-4-sedlcanska-praha-nusle.html",
+        "lines": [],
+        "lon": 14.435701370239258,
+        "source": "firm",
+        "source_id": 12809391,
+        "lat": 50.052268981933594,
+        "review_count": 0,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_G_C/7YbBIuE.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/412",
+        "name": "Školka"
+      },
+      {
+        "distance": 358,
+        "rating": 5,
+        "description": "Základní škola Plamínkové",
+        "index": 2,
+        "url": "https://www.firmy.cz/detail/435321-zakladni-skola-plaminkove-praha-nusle.html",
+        "lines": [],
+        "lon": 14.435701370239258,
+        "source": "firm",
+        "source_id": 435321,
+        "lat": 50.052268981933594,
+        "review_count": 2,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_H_D/V51BIWV.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/142",
+        "name": "Škola"
+      },
+      {
+        "distance": 366,
+        "rating": -1,
+        "description": "Škola Kavčí hory - MŠ, ZŠ a Střední odborná škola služeb Praha 4",
+        "index": 3,
+        "url": "https://www.firmy.cz/detail/662769-skola-kavci-hory-ms-zs-a-stredni-odborna-skola-sluzeb-praha-4-praha-podoli.html",
+        "lines": [],
+        "lon": 14.432159423828125,
+        "source": "firm",
+        "source_id": 662769,
+        "lat": 50.046852111816406,
+        "review_count": 0,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_QR_t/9RjErB.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/412",
+        "name": "Školka"
+      }
+    ],
+    "name": "Školy a školky"
+  },
+  "logged_in": false,
+  "is_topped_today": true,
+  "map": {
+    "lat": 50.0490548669705,
+    "type": "coordinates",
+    "lon": 14.4359705392114,
+    "zoom": 14
+  },
+  "poi_transport": {
+    "url": "https://mapy.cz/zakladni?x=14.4359705392&y=50.049054867&z=16&q=zast%C3%A1vky",
+    "values": [
+      {
+        "distance": 49,
+        "rating": -1,
+        "description": "Sídliště Pankrác",
+        "walkDistance": 131,
+        "index": 1,
+        "url": "https://mapy.cz/zakladni?x=14.4356462527&y=50.048667757&z=17&source=pubt&id=15304300",
+        "lines": [
+          {
+            "poi_id": 15304300,
+            "terminus": "Šeberák",
+            "line_label": "193",
+            "departure_direction": 1,
+            "line_id": "L193",
+            "type": "bus"
+          },
+          {
+            "poi_id": 15304300,
+            "terminus": "Sídliště Písnice",
+            "line_label": "904",
+            "departure_direction": 1,
+            "line_id": "L904",
+            "type": "bus"
+          }
+        ],
+        "lon": 14.4356462527,
+        "source": "pubt",
+        "source_id": 15304300,
+        "time": 125,
+        "lat": 50.048667757,
+        "review_count": 0,
+        "photo_url": "https://d34-a.sdn.cz/d_34/c_img_QR_T/FWSWe.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/198",
+        "name": "Bus MHD"
+      },
+      {
+        "distance": 50,
+        "rating": -1,
+        "description": "Sídliště Pankrác",
+        "index": 2,
+        "url": "https://mapy.cz/zakladni?x=14.4354007288361&y=50.0487975574505&z=17&source=pubt&id=17826402",
+        "lines": [],
+        "lon": 14.4354007288361,
+        "source": "pubt",
+        "source_id": 17826402,
+        "lat": 50.0487975574505,
+        "review_count": 0,
+        "photo_url": "https://d34-a.sdn.cz/d_34/c_img_gR_W/APkGDb.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/198",
+        "name": "Bus MHD"
+      },
+      {
+        "distance": 95,
+        "rating": -1,
+        "description": "Sídliště Pankrác",
+        "index": 3,
+        "url": "https://mapy.cz/zakladni?x=14.4349127901&y=50.049573712&z=17&source=pubt&id=15301295",
+        "lines": [
+          {
+            "poi_id": 15301295,
+            "terminus": "Dvorce",
+            "line_label": "134",
+            "departure_direction": 1,
+            "line_id": "L134",
+            "type": "bus"
+          },
+          {
+            "poi_id": 15301295,
+            "terminus": "Želivského",
+            "line_label": "188",
+            "departure_direction": -1,
+            "line_id": "L188",
+            "type": "bus"
+          },
+          {
+            "poi_id": 15301295,
+            "terminus": "Pražského povstání",
+            "line_label": "193",
+            "departure_direction": -1,
+            "line_id": "L193",
+            "type": "bus"
+          }
+        ],
+        "lon": 14.4349127901,
+        "source": "pubt",
+        "source_id": 15301295,
+        "lat": 50.049573712,
+        "review_count": 0,
+        "photo_url": "https://d34-a.sdn.cz/d_34/c_img_QM_U/luHXA.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/198",
+        "name": "Bus MHD"
+      },
+      {
+        "distance": 151,
+        "rating": -1,
+        "description": "Sídliště Pankrác",
+        "index": 4,
+        "url": "https://mapy.cz/zakladni?x=14.4338730738&y=50.0489042097&z=17&source=pubt&id=15304107",
+        "lines": [
+          {
+            "poi_id": 15304107,
+            "terminus": "Podolská vodárna",
+            "line_label": "134",
+            "departure_direction": -1,
+            "line_id": "L134",
+            "type": "bus"
+          },
+          {
+            "poi_id": 15304107,
+            "terminus": "Kavčí hory",
+            "line_label": "188",
+            "departure_direction": 1,
+            "line_id": "L188",
+            "type": "bus"
+          },
+          {
+            "poi_id": 15304107,
+            "terminus": "Sídliště Stodůlky",
+            "line_label": "904",
+            "departure_direction": -1,
+            "line_id": "L904",
+            "type": "bus"
+          }
+        ],
+        "lon": 14.4338730738,
+        "source": "pubt",
+        "source_id": 15304107,
+        "lat": 50.0489042097,
+        "review_count": 0,
+        "photo_url": "bus_public_transport",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/198",
+        "name": "Bus MHD"
+      },
+      {
+        "distance": 307,
+        "rating": -1,
+        "description": "Pankrác",
+        "index": 5,
+        "url": "https://mapy.cz/zakladni?x=14.4378580942&y=50.0515318531&z=17&source=pubt&id=15303730",
+        "lines": [
+          {
+            "poi_id": 15303730,
+            "terminus": "Želivského",
+            "line_label": "188",
+            "departure_direction": -1,
+            "line_id": "L188",
+            "type": "bus"
+          },
+          {
+            "poi_id": 15303730,
+            "terminus": "Pražského povstání",
+            "line_label": "193",
+            "departure_direction": -1,
+            "line_id": "L193",
+            "type": "bus"
+          }
+        ],
+        "lon": 14.4378580942,
+        "source": "pubt",
+        "source_id": 15303730,
+        "lat": 50.0515318531,
+        "review_count": 0,
+        "photo_url": "https://d18-a.sdn.cz/d_18/c_img_QI_Je/34EEc0.jpeg?fl=res,300,300,3|shr,,20|jpg,90",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/198",
+        "name": "Bus MHD"
+      }
+    ],
+    "name": "Doprava"
+  },
+  "price_czk": {},
+  "rus": false,
+  "name": {
+    "name": "Název",
+    "value": "Prodej bytu 3+kk 137 m²"
+  },
+  "poi_grocery": {
+    "url": "https://www.firmy.cz/Obchody-a-obchudky/Prodejci-potravin?x=14.4359705392&y=50.049054867&rt=adresa",
+    "values": [
+      {
+        "distance": 102,
+        "rating": 1,
+        "description": "NORMA, k.s.",
+        "index": 1,
+        "url": "https://www.firmy.cz/detail/2182167-norma-k-s-praha-krc.html",
+        "lines": [],
+        "lon": 14.436092376708984,
+        "source": "firm",
+        "source_id": 2182167,
+        "lat": 50.04813766479492,
+        "review_count": 1,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_H_D/vy4BewU.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/423",
+        "name": "Večerka"
+      },
+      {
+        "distance": 227,
+        "rating": 4,
+        "description": "Arkády Pankrác",
+        "walkDistance": 346,
+        "index": 1,
+        "url": "https://www.firmy.cz/detail/2245240-arkady-pankrac-praha-nusle.html",
+        "lines": [],
+        "lon": 14.437548637390137,
+        "source": "firm",
+        "source_id": 2245240,
+        "time": 318,
+        "lat": 50.05082702636719,
+        "review_count": 67,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_G_C/uRfITR.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/419",
+        "name": "Obchod"
+      },
+      {
+        "distance": 488,
+        "rating": -1,
+        "description": "Večerka CBA",
+        "index": 2,
+        "url": "https://www.firmy.cz/detail/2543777-vecerka-cba-praha-krc.html",
+        "lines": [],
+        "lon": 14.43680191040039,
+        "source": "firm",
+        "source_id": 2543777,
+        "lat": 50.04469680786133,
+        "review_count": 0,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_QP_z/UftF5g.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/423",
+        "name": "Večerka"
+      },
+      {
+        "distance": 821,
+        "rating": 5,
+        "description": "Albert Supermarket",
+        "index": 3,
+        "url": "https://www.firmy.cz/detail/229749-albert-supermarket-praha-michle.html",
+        "lines": [],
+        "lon": 14.44685173034668,
+        "source": "firm",
+        "source_id": 229749,
+        "lat": 50.046661376953125,
+        "review_count": 2,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_H_B/i2xWmV.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/423",
+        "name": "Večerka"
+      },
+      {
+        "distance": 830,
+        "rating": 1,
+        "description": "Tesco Expres",
+        "index": 4,
+        "url": "https://www.firmy.cz/detail/2600796-tesco-expres-praha-nusle.html",
+        "lines": [],
+        "lon": 14.433690071105957,
+        "source": "firm",
+        "source_id": 2600796,
+        "lat": 50.05636978149414,
+        "review_count": 1,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_G_C/UlufuV.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/423",
+        "name": "Večerka"
+      }
+    ],
+    "name": "Potraviny"
+  },
+  "poi_restaurant": {
+    "url": "https://www.firmy.cz/Restauracni-a-pohostinske-sluzby?x=14.4359705392&y=50.049054867&rt=adresa",
+    "values": [
+      {
+        "distance": 123,
+        "rating": 1,
+        "description": "Restaurace Peking",
+        "walkDistance": 213,
+        "index": 1,
+        "url": "https://www.firmy.cz/detail/2680271-restaurace-peking-praha-krc.html",
+        "lines": [],
+        "lon": 14.434931755065918,
+        "source": "firm",
+        "source_id": 2680271,
+        "time": 198,
+        "lat": 50.04817199707031,
+        "review_count": 2,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_QP_z/tvnFYa.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/133",
+        "name": "Restaurace"
+      },
+      {
+        "distance": 123,
+        "rating": 4,
+        "description": "Restaurace Olympie",
+        "index": 2,
+        "url": "https://www.firmy.cz/detail/12894515-restaurace-olympie-praha-krc.html",
+        "lines": [],
+        "lon": 14.434931755065918,
+        "source": "firm",
+        "source_id": 12894515,
+        "lat": 50.04817199707031,
+        "review_count": 4,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_QI_x/IqrG1z.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/133",
+        "name": "Restaurace"
+      },
+      {
+        "distance": 162,
+        "rating": -1,
+        "description": "MEZZO restaurace",
+        "index": 3,
+        "url": "https://www.firmy.cz/detail/2375188-mezzo-restaurace-praha-krc.html",
+        "lines": [],
+        "lon": 14.438233375549316,
+        "source": "firm",
+        "source_id": 2375188,
+        "lat": 50.04906463623047,
+        "review_count": 0,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_H_D/o3JjXs.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/133",
+        "name": "Restaurace"
+      },
+      {
+        "distance": 203,
+        "rating": -1,
+        "description": "FRESHERIE BISTRO",
+        "index": 4,
+        "url": "https://www.firmy.cz/detail/2285343-fresherie-bistro-praha-nusle.html",
+        "lines": [],
+        "lon": 14.434979438781738,
+        "source": "firm",
+        "source_id": 2285343,
+        "lat": 50.0507698059082,
+        "review_count": 0,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_QJ_r/LvdTCV.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/133",
+        "name": "Restaurace"
+      },
+      {
+        "distance": 243,
+        "rating": -1,
+        "description": "Pankrácký Rynek",
+        "index": 1,
+        "url": "https://www.firmy.cz/detail/12869742-pankracky-rynek-praha-nusle.html",
+        "lines": [],
+        "lon": 14.43907356262207,
+        "source": "firm",
+        "source_id": 12869742,
+        "lat": 50.04994583129883,
+        "review_count": 0,
+        "photo_url": "//d48-a.sdn.cz/d_48/c_img_H_D/4RABtlc.jpeg?fl=res,{width},{height},3",
+        "imgUrl": "https://api.mapy.cz/poiimg/icon/38",
+        "name": "Cukrárna"
+      }
+    ],
+    "name": "Restaurace"
+  },
+  "items": [
+    {
+      "negotiation": false,
+      "type": "price_info",
+      "name": "Cena",
+      "value": "Informace o ceně na dotaz"
+    },
+    {
+      "type": "string",
+      "name": "Poznámka k ceně",
+      "value": "+ poplatky: žádné"
+    },
+    {
+      "type": "string",
+      "name": "ID zakázky",
+      "value": "503132"
+    },
+    {
+      "type": "edited",
+      "name": "Aktualizace",
+      "value": "Dnes",
+      "topped": true
+    },
+    {
+      "type": "string",
+      "name": "Stavba",
+      "value": "Skeletová"
+    },
+    {
+      "type": "string",
+      "name": "Stav objektu",
+      "value": "Velmi dobrý"
+    },
+    {
+      "type": "string",
+      "name": "Vlastnictví",
+      "value": "Osobní"
+    },
+    {
+      "type": "string",
+      "name": "Podlaží",
+      "value": "12. podlaží z celkem 30"
+    },
+    {
+      "unit": "m2",
+      "type": "area",
+      "name": "Užitná plocha",
+      "value": "137"
+    },
+    {
+      "type": "boolean",
+      "name": "Terasa",
+      "value": true
+    },
+    {
+      "type": "boolean",
+      "name": "Sklep",
+      "value": true
+    },
+    {
+      "type": "boolean",
+      "name": "Parkování",
+      "value": true
+    },
+    {
+      "type": "boolean",
+      "name": "Garáž",
+      "value": true
+    },
+    {
+      "type": "string",
+      "name": "Datum nastěhování",
+      "value": "Ihned"
+    },
+    {
+      "value_type": "B",
+      "type": "energy_efficiency_rating",
+      "name": "Energetická náročnost budovy",
+      "value": "Třída B - Velmi úsporná"
+    },
+    {
+      "type": "boolean",
+      "name": "Výtah",
+      "value": true
+    }
+  ],
+  "is_topped": true,
+  "locality_district_id": 5004
+}
